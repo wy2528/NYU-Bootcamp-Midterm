@@ -2,7 +2,7 @@
 
 ## Housing Affordability and Market Trends Across New York City Neighborhoods
 
-## Group members: Winnie Yeng, Ameera Alrahmah, Sophie Dang
+## Group members: Winnie Yang, Ameera Alrahmah, Sophie Dang
 
 
 ## Introduction:
